@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tile_text_size">32sp</dimen>
+    <dimen name="tile_text_padding">20dp</dimen>
+    <dimen name="tile_radius">10dp</dimen>
+    <dimen name="tile_size">75dp</dimen>
+</resources>
